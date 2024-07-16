@@ -1,0 +1,6 @@
+![First UI Screen](https://github.com/bylutass/MotionCaptureWithPython/blob/main/Images/First%20UI.png)
+![Add Video](https://github.com/bylutass/MotionCaptureWithPython/blob/main/Images/Add%20Video.png)
+![Added Video](https://github.com/bylutass/MotionCaptureWithPython/blob/main/Images/Added%20Video.png)
+![TXT File](https://github.com/bylutass/MotionCaptureWithPython/blob/main/Images/TXT%20File.png)
+![In Unity](https://github.com/bylutass/MotionCaptureWithPython/blob/main/Images/InUnity.png)
+![Mediapipe](https://github.com/bylutass/MotionCaptureWithPython/blob/main/Images/mediapipe%20poses.png)
